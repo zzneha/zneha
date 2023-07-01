@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zzneha
+- 👋 Hi, I’m Sneha Sunil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
 - 📫 Reach out to me on instagram @_.zneha
